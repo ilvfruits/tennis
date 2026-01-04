@@ -7,5 +7,6 @@ header_pages:
 - books/tennis-books.
 markdown: kramdown
 highlighter: rouge
-baseurl: "/stackoverflow-survey-2025"
+baseurl: "/tennis"
+
 permalink: /:year/:month/:day/:title/
