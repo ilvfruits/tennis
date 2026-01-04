@@ -1,6 +1,6 @@
 ---
 layout: default
-title: { title }
+title: tennis learning notes
 ---
 
 ### Welcome to my blog.
@@ -23,4 +23,5 @@ title: { title }
 An analysis on how to fight back drop shot.
 
 ![Image]({{site.baseurl}}/assets/images/drop-shot.jpg)
+
   
