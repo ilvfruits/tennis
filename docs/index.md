@@ -13,15 +13,16 @@ An analysis on how to fight back drop shot.
 
 ### 📚 Book list
 
-- **[Tennis Strategy]({{site.baseurl}}/books/tennis-books/)**
+- **[Winning Ugly]({{site.baseurl}}/books/winning-ugly/)**
   An introduction of tennis strategy books
 
   ![Image]({{site.baseurl}}/assets/images/winning-ugly.jpg)
   
-- **[Conditioning For Tennis]({{site.baseurl}}/books/tennis-fittness/)**
+- **[Complete Conditioning For Tennis]({{site.baseurl}}/books/tennis-fittness/)**
   An introduction of tennis fittness books
 
   ![Image]({{site.baseurl}}/assets/images/conditioning-tennis.jpg)
+
 
 
 
