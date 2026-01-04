@@ -2,11 +2,8 @@ title: Tennis Learning Notes
 description: Tennis strategy, learning notes, and reflections
 theme: minima
 author: Xin Yang
-header_pages:
-- index.md
-- books/tennis-books.
 markdown: kramdown
 highlighter: rouge
 baseurl: "/tennis"
-
 permalink: /:year/:month/:day/:title/
+
