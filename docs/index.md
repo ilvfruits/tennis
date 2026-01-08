@@ -7,6 +7,9 @@ title: tennis learning notes
 - **[What I observed/learned from each tournaments?]({{site.baseurl}}/2026/01/08/tennis-tournament/)**
 记录每一场比赛
 
+![Image]({{site.baseurl}}/assets/images/tennis.jpg)
+
+
 ### 🎾 Tennis strategy notes
 
 - **[How to fight drop shot?]({{site.baseurl}}/2026/01/04/tennis-strategy-vs-drop-shot/)**
@@ -26,6 +29,7 @@ An analysis on how to fight back drop shot.
   An introduction of tennis fittness books
 
   ![Image]({{site.baseurl}}/assets/images/conditioning-tennis.jpg)
+
 
 
 
