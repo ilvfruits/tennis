@@ -24,10 +24,11 @@ An analysis on how to fight back drop shot.
 
   ![Image]({{site.baseurl}}/assets/images/winning-ugly.jpg)
   
-- **[Complete Conditioning For Tennis]({{site.baseurl}}/books/tennis-fittness/)**
+- **[Complete Conditioning For Tennis]({{site.baseurl}}/books/conditioning-tennis/)**
   An introduction of tennis fittness books
 
   ![Image]({{site.baseurl}}/assets/images/conditioning-tennis.jpg)
+
 
 
 
